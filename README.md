@@ -6,7 +6,9 @@ Date: 10/10/2021
 
 Project team members: Ravanpreet Kaur, Tlotliso Namane, Lehlohonolo Thakhisi
 
-Description: The websites main function is to target awareness in recycling plastic and reuse it to create useful products. The flowchart above shows how the website is designed and the home page contains the navigation bar of every section, clicking on them directs you to a different section scrolling through the website.
+Description: 
+![Screenshot 2021-10-10 132919](https://user-images.githubusercontent.com/73405757/137085607-34f9818d-ff67-4132-b889-adaf21830fc5.png)
+The websites main function is to target awareness in recycling plastic and reuse it to create useful products. The flowchart above shows how the website is designed and the home page contains the navigation bar of every section, clicking on them directs you to a different section scrolling through the website.
 
 Home page: The section shows a slide about plastic recycling and different features of images in the background and a navigation bar of different sections in the website and the company logo as well. Each section is accessible either clicking on the bar or scrolling willingy.
 About section: The about tells the viewer about Pheha Plastic and its establishment, creating loads of different products from recycled plastic turning them into beautiful masterpieces. This section can easily be accessible by clicking on the navigation bar.c
