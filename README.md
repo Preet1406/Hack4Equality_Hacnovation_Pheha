@@ -1,7 +1,9 @@
 # Hack4Equality_Hacnovation_Pheha
 
 Project title: Pheha Plastic
+
 Date: 10/10/2021
+
 Project team members: Ravanpreet Kaur, Tlotliso Namane, Lehlohonolo Thakhisi
 
 Description: The websites main function is to target awareness in recycling plastic and reuse it to create useful products. The flowchart above shows how the website is designed and the home page contains the navigation bar of every section, clicking on them directs you to a different section scrolling through the website.
